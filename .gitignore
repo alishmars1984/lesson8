@@ -1,2 +1,5 @@
 игнорирует все файлы с расширением .env
+secrets.txt
 .env
+/config_folder
+*.log
