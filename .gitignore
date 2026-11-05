@@ -3,3 +3,4 @@ secrets.txt
 .env
 /config_folder
 *.log
+/config_folder/*.json
